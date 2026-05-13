@@ -1,0 +1,15 @@
+.DS_Store
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+storybook-static
+node_modules
+*.log
+.fleet
+.idea
+.env
+.env.*
+!.env.example

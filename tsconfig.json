@@ -1,0 +1,10 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "module": "ESNext",
+    "strictPropertyInitialization": false,
+    "sourceMap": true,
+    "checkJs": true
+  },
+  "exclude": ["node_modules", "storybook-static", ".output", "dist"]
+}
