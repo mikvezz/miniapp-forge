@@ -38,6 +38,7 @@ npx nuxi@latest init .
 
 * Nuxt 3 (SSR + UI)
 * TypeScript
+* Tailwind
 * Pinia
 * Telegram Web App SDK (@telegram-apps/sdk)
 * Zod
